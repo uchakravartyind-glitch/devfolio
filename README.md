@@ -3,7 +3,7 @@
 A responsive personal portfolio built with semantic HTML, CSS Grid, and Flexbox.
 
 ## Live Demo
-[View Live Site](https://<your-username>.github.io/devfolio/)
+[View Live Site](https://uchakravartyind-glitch.github.io/devfolio/)
 
 ## Features
 - Semantic HTML tags (`<header>`, `<main>`, `<section>`, `<footer>`)
